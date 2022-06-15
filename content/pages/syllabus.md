@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains an overview and list of materials for the
+  course, grading criteria participation guidelines and calendar for the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 4b5ceb45-493d-5fad-487a-f34a9f9afae4
 ---
