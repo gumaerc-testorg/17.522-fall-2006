@@ -5,6 +5,7 @@ file: /courses/17-522-politics-and-religion-fall-2006/b9b18f64dea25958b6833893d9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper2.pdf
 uid: b9b18f64-dea2-5958-b683-3893d9c3e76b
 ---
 Sample response paper by Kristin Fabbe, used with permission.
-
