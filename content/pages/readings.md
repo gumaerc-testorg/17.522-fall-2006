@@ -260,7 +260,7 @@ Terrorism - Suicide Attacks
 
 Pape, Robert. _Dying to Win: The Strategic Logic of Suicide Terrorism_. New York, NY: Random House, 2005, chapters 1-6, and 9-10. ISBN: 9781400063178.
 
-Iannaccone, Laurence R. "The Market for Martyrs." Global Prosperity Initiative Working Paper No. 35, Mercatus Center, George Mason University, December 2003. ([PDF](http://www.urbanlab.org/articles/Iannaccone%202004%20Markets%20for%20Martyrs.pdf))
+Iannaccone, Laurence R. "The Market for Martyrs." Global Prosperity Initiative Working Paper No. 35, Mercatus Center, George Mason University, December 2003. ({{% resource_link "e4ee857d-7741-425c-9329-e32a39d2b393" "PDF" %}})
 
 
 {{< tdclose >}}
