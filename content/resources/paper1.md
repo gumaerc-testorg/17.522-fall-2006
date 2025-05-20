@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample response paper by Kristin Fabbe, used with permission.
-file: /ol-ocw-studio-app/courses/17-522-politics-and-religion-fall-2006/0358d3e4c4013bb744072094dd601a97_paper1.pdf
+file: /courses/17-522-politics-and-religion-fall-2006/0358d3e4c4013bb744072094dd601a97_paper1.pdf
 file_size: 20415
 file_type: application/pdf
 learning_resource_types:
